@@ -1,0 +1,794 @@
+﻿Customer Name,Sales,Orders,Recency,R Score,F Score,M Score,RFM Score,Segment
+Nicole Brennan,273.87,2,1165,1,1,1,111,Clients à risque
+Georgia Rosenberg,1284.38,2,1135,1,1,2,112,Clients à risque
+Ricardo Emerson,48.36,1,1097,1,1,1,111,Clients à risque
+Craig Molinari,3984.45,4,1034,1,2,4,124,À réactiver
+Valerie Takahito,1736.6,2,999,1,1,3,113,À réactiver
+Pauline Chand,1061.49,2,881,1,1,2,112,Clients à risque
+Andy Gerbode,1455.04,4,844,1,2,2,122,Clients à risque
+Peter Fuller,9062.86,4,834,1,2,5,125,À réactiver
+David Philippe,1058.62,2,811,1,1,2,112,Clients à risque
+Craig Carroll,2854.12,4,798,1,2,4,124,À réactiver
+Sam Craven,3362.96,5,780,1,2,4,124,À réactiver
+Lycoris Saunders,368.88,3,776,1,1,1,111,Clients à risque
+Duane Huffman,1043.1,4,775,1,1,2,112,Clients à risque
+Kelly Williams,449.1,4,770,1,1,1,111,Clients à risque
+Harold Dahlen,251.36,3,768,1,1,1,111,Clients à risque
+Guy Phonely,236.53,2,764,1,1,1,111,Clients à risque
+Stefanie Holloman,2096.39,2,764,1,1,3,113,À réactiver
+Jack Garza,2358.68,3,757,1,1,3,113,À réactiver
+Joel Jenkins,195.0,2,752,1,1,1,111,Clients à risque
+Joni Blumstein,900.55,3,736,1,1,1,111,Clients à risque
+Deanra Eno,2550.87,5,718,1,2,3,123,À réactiver
+Mark Packer,2945.82,6,718,1,3,4,134,À réactiver
+Carlos Meador,565.39,2,707,1,1,1,111,Clients à risque
+David Flashing,2390.53,3,699,1,1,3,113,À réactiver
+Cathy Hwang,1537.24,3,690,1,1,2,112,Clients à risque
+Phillip Breyer,132.74,2,687,1,1,1,111,Clients à risque
+Brad Thomas,415.2,2,659,1,1,1,111,Clients à risque
+Robert Barroso,221.08,5,648,1,2,1,121,Clients à risque
+Denny Joy,2012.52,4,637,1,2,3,123,À réactiver
+John Lucas,2725.26,6,614,1,3,4,134,À réactiver
+Susan MacKendrick,1043.04,1,606,1,1,2,112,Clients à risque
+Jim Radford,1156.66,2,593,1,1,2,112,Clients à risque
+Toby Braunhardt,2198.45,6,583,1,3,3,133,À réactiver
+Brian Stugart,3288.11,3,582,1,1,4,114,À réactiver
+Valerie Dominguez,6442.25,6,581,1,3,5,135,À réactiver
+Bobby Trafton,603.88,4,560,1,1,1,111,Clients à risque
+Bill Shonely,10501.65,5,558,1,3,5,135,À réactiver
+Maureen Gnade,1342.28,3,555,1,1,2,112,Clients à risque
+Lela Donovan,5.3,1,552,1,1,1,111,Clients à risque
+Corey-Lock,1300.08,5,549,1,2,2,122,Clients à risque
+Anemone Ratner,88.15,1,534,1,1,1,111,Clients à risque
+Steven Ward,758.7,2,534,1,1,1,111,Clients à risque
+Rob Haberlin,2085.74,3,534,1,1,3,113,À réactiver
+John Stevenson,3868.02,5,534,1,3,4,134,À réactiver
+Neil Franzأ¶sisch,377.16,4,525,1,1,1,111,Clients à risque
+Ritsa Hightower,740.38,2,519,1,1,1,111,Clients à risque
+Theresa Swint,2163.62,6,504,1,3,3,133,À réactiver
+Anthony O'Donnell,161.28,1,501,1,1,1,111,Clients à risque
+Rachel Payne,954.65,4,496,1,1,2,112,Clients à risque
+Shirley Schmidt,613.4,3,491,1,1,1,111,Clients à risque
+Vivek Grady,418.43,4,491,1,1,1,111,Clients à risque
+Chad Sievert,884.64,4,489,1,1,1,111,Clients à risque
+Karen Daniels,8282.36,5,484,1,3,5,135,À réactiver
+Paul Knutson,1441.15,2,483,1,1,2,112,Clients à risque
+Jennifer Jackson,709.18,5,483,1,2,1,121,Clients à risque
+Don Miller,1376.79,3,481,1,1,2,112,Clients à risque
+Brad Eason,748.03,5,481,1,2,1,121,Clients à risque
+Corey Roper,475.9,3,470,1,1,1,111,Clients à risque
+Rick Huthwaite,6979.18,6,467,1,3,5,135,À réactiver
+Pierre Wener,3922.41,7,464,1,4,4,144,À réactiver
+Joni Sundaresam,469.17,5,463,1,2,1,121,Clients à risque
+Julia West,1428.73,4,461,1,2,2,122,Clients à risque
+Chad Cunningham,1685.89,5,457,1,2,2,122,Clients à risque
+Melanie Seite,370.35,4,452,1,1,1,111,Clients à risque
+Chuck Magee,287.99,3,436,1,1,1,111,Clients à risque
+Lindsay Castell,3246.63,4,436,1,2,4,124,À réactiver
+MaryBeth Skach,475.66,4,434,1,1,1,111,Clients à risque
+Sonia Sunley,418.49,6,432,1,3,1,131,Clients à risque
+Cindy Schnelling,970.11,4,424,1,1,2,112,Clients à risque
+Elpida Rittenbach,1245.79,3,421,1,1,2,112,Clients à risque
+Sally Matthias,244.49,4,421,1,1,1,111,Clients à risque
+Maureen Fritzler,937.04,5,421,1,2,2,122,Clients à risque
+Aaron Bergman,886.16,3,415,1,1,1,111,Clients à risque
+Art Foster,861.56,4,415,1,1,1,111,Clients à risque
+Sung Chung,14.11,1,414,1,1,1,111,Clients à risque
+Lisa DeCherney,1961.93,4,414,1,2,3,123,À réactiver
+Maurice Satty,1613.4,6,413,1,3,2,132,Clients à risque
+Odella Nelson,1567.52,9,410,1,5,2,152,Clients à risque
+Anna Hأ¤berlin,7888.29,12,410,1,5,5,155,À réactiver
+Ionia McGrath,48.4,2,409,1,1,1,111,Clients à risque
+Karen Carlisle,2120.95,6,407,1,3,3,133,À réactiver
+Tim Taslimi,439.5,3,406,1,1,1,111,Clients à risque
+Nora Pelletier,1164.73,5,406,1,2,2,122,Clients à risque
+Erica Hackney,825.95,6,405,1,3,1,131,Clients à risque
+Justin Hirsh,2256.39,4,404,1,2,3,123,À réactiver
+Cathy Armstrong,1679.72,5,401,1,2,2,122,Clients à risque
+Cynthia Delaney,1860.73,5,399,1,2,3,123,À réactiver
+Mark Cousins,4432.14,5,399,1,3,5,135,À réactiver
+Tamara Chand,19052.22,5,399,1,3,5,135,À réactiver
+Jonathan Doherty,7610.86,11,394,1,5,5,155,À réactiver
+Liz MacKendrick,1346.77,5,391,1,2,2,122,Clients à risque
+Kean Takahito,3057.1,7,391,1,4,4,144,À réactiver
+Irene Maddox,4930.47,7,390,1,4,5,145,À réactiver
+Randy Ferguson,3309.15,8,390,1,4,4,144,À réactiver
+Gene Hale,1361.24,2,387,1,1,2,112,Clients à risque
+Paul MacIntyre,1405.4,3,386,1,1,2,112,Clients à risque
+Stephanie Phelps,1872.44,9,386,1,5,3,153,À réactiver
+Chris McAfee,2305.71,5,385,1,2,3,123,À réactiver
+Logan Haushalter,1739.69,9,385,1,5,3,153,À réactiver
+Mark Haberlin,400.02,4,376,1,1,1,111,Clients à risque
+Mike Caudle,1582.0,5,369,1,2,2,122,Clients à risque
+Roy Collins,966.41,6,369,1,3,2,132,Clients à risque
+Carl Jackson,16.52,1,365,1,1,1,111,Clients à risque
+Fred Wasserman,79.75,3,362,1,1,1,111,Clients à risque
+Dennis Pardue,5480.72,9,358,1,5,5,155,À réactiver
+Thais Sissman,4.83,2,357,1,1,1,111,Clients à risque
+Dianna Arnett,156.76,4,352,1,1,1,111,Clients à risque
+Tracy Poddar,1936.64,4,350,1,2,3,123,À réactiver
+Tim Brockman,1602.38,7,349,1,4,2,142,Clients à risque
+Sanjit Chand,14142.33,9,349,1,5,5,155,À réactiver
+Raymond Messe,1453.47,6,345,1,3,2,132,Clients à risque
+Thea Hendricks,2422.82,5,344,1,2,3,123,À réactiver
+Claire Gute,1148.78,3,338,1,1,2,112,Clients à risque
+Toby Gnade,3058.37,5,337,1,2,4,124,À réactiver
+Beth Thompson,2567.66,5,336,1,2,3,123,À réactiver
+Benjamin Venier,1523.27,5,334,1,2,2,122,Clients à risque
+Bryan Davis,658.47,6,327,1,3,1,131,Clients à risque
+Sibella Parks,1306.09,6,327,1,3,2,132,Clients à risque
+Stewart Visinsky,4105.31,9,320,1,5,4,154,À réactiver
+Becky Martin,11789.63,4,307,1,2,5,125,À réactiver
+Richard Eichhorn,666.52,4,302,1,1,1,111,Clients à risque
+Ed Jacobs,2162.17,4,302,1,2,3,123,À réactiver
+Bill Tyler,2186.61,6,302,1,3,3,133,À réactiver
+Julia Dunbar,695.44,3,300,1,1,1,111,Clients à risque
+Roland Murray,98.35,1,299,1,1,1,111,Clients à risque
+Karl Braun,1569.46,9,296,1,5,2,152,Clients à risque
+Karen Seio,88.47,3,295,1,1,1,111,Clients à risque
+Marc Harrigan,1691.51,5,294,1,2,2,122,Clients à risque
+Ken Dana,907.16,4,289,1,1,1,111,Clients à risque
+Jason Klamczynski,383.81,3,287,1,1,1,111,Clients à risque
+Edward Nazzal,2199.37,4,287,1,2,3,123,À réactiver
+Troy Blackwell,1240.87,4,285,1,1,2,112,Clients à risque
+Clay Ludtke,10880.55,12,284,1,5,5,155,À réactiver
+Anna Chung,657.32,5,282,1,2,1,121,Clients à risque
+Mary Zewe,2564.91,6,282,1,3,3,133,À réactiver
+Brendan Dodson,320.54,2,278,1,1,1,111,Clients à risque
+Alejandro Grove,2582.9,5,278,1,2,3,123,À réactiver
+Dave Hallsten,3487.2,5,277,1,3,4,134,À réactiver
+Maribeth Schnelling,7443.69,10,273,1,5,5,155,À réactiver
+Bryan Spruell,949.43,2,265,1,1,2,112,Clients à risque
+Mitch Gastineau,16.74,1,264,1,1,1,111,Clients à risque
+Dennis Bolton,1081.47,5,264,1,2,2,122,Clients à risque
+Craig Leslie,2335.59,4,260,1,2,3,123,À réactiver
+Andrew Allen,1790.51,4,259,1,2,3,123,À réactiver
+Christina VanderZanden,2830.63,5,254,1,2,4,124,À réactiver
+Shirley Jackson,1318.78,5,253,1,2,2,122,Clients à risque
+Lauren Leatherbury,2454.55,5,249,1,2,3,123,À réactiver
+Henry MacAllister,736.28,4,247,1,1,1,111,Clients à risque
+Neoma Murray,2161.98,10,244,1,5,3,153,À réactiver
+Dorothy Wardle,1204.85,7,242,1,3,2,132,Clients à risque
+Darren Budd,2469.67,4,241,1,2,3,123,À réactiver
+Mike Kennedy,1031.6,4,240,1,1,2,112,Clients à risque
+Lisa Hazard,318.24,4,239,1,1,1,111,Clients à risque
+Trudy Schmidt,3368.09,5,238,1,2,4,124,À réactiver
+Penelope Sewall,6843.63,7,236,1,4,5,145,À réactiver
+Alyssa Crouse,925.8,3,232,1,1,1,111,Clients à risque
+Charles Sheldon,844.46,5,232,1,2,1,121,Clients à risque
+Amy Hunt,2495.39,5,230,1,2,3,123,À réactiver
+Ken Black,2744.74,12,230,1,5,4,154,À réactiver
+Susan Gilcrest,47.95,3,226,2,1,1,211,Clients à risque
+Toby Swindell,974.78,5,226,2,2,2,222,Clients à risque
+Jason Fortune-,955.12,5,225,2,2,2,222,Clients à risque
+Nat Carroll,2461.4,5,224,2,2,3,223,À réactiver
+John Grady,1507.02,6,223,2,3,2,232,Clients à risque
+Vivek Sundaresam,1055.98,4,221,2,1,2,212,Clients à risque
+Bryan Mills,1338.84,10,218,2,5,2,252,Clients à risque
+Dianna Wilson,5271.63,5,217,2,3,5,235,À réactiver
+Duane Noonan,2139.79,7,217,2,4,3,243,À réactiver
+Eric Hoffmann,684.17,8,217,2,4,1,241,Clients à risque
+Jesus Ocampo,1090.84,5,215,2,2,2,222,Clients à risque
+Barry Weirich,385.52,3,212,2,1,1,211,Clients à risque
+Fred Harton,2271.28,4,212,2,2,3,223,À réactiver
+Nick Radford,2367.28,5,210,2,2,3,223,À réactiver
+Liz Willingham,1259.04,3,205,2,1,2,212,Clients à risque
+Noah Childs,1821.74,5,204,2,2,3,223,À réactiver
+Michelle Tran,1319.45,4,203,2,1,2,212,Clients à risque
+Ben Wallace,1738.41,6,203,2,3,3,233,À réactiver
+Zuschuss Donatelli,1493.94,5,202,2,2,2,222,Clients à risque
+Tom Boeckenhauer,9108.74,6,202,2,3,5,235,À réactiver
+Becky Castell,2933.68,9,202,2,5,4,254,À réactiver
+Sarah Bern,1348.02,3,201,2,1,2,212,Clients à risque
+Shirley Daniels,6004.33,9,200,2,5,5,255,À réactiver
+Thomas Seio,5371.09,7,198,2,4,5,245,À réactiver
+Claudia Bergmann,4246.46,8,197,2,4,4,244,À réactiver
+Philip Fox,2770.0,6,196,2,3,4,234,À réactiver
+Steven Roelle,4345.89,8,196,2,4,5,245,À réactiver
+Toby Ritter,675.94,5,193,2,2,1,221,Clients à risque
+Jeremy Ellison,1388.68,6,193,2,3,2,232,Clients à risque
+Alan Shonely,503.97,5,192,2,2,1,221,Clients à risque
+Matthew Clasen,795.15,4,189,2,1,1,211,Clients à risque
+Nicole Hansen,2518.67,6,189,2,3,3,233,À réactiver
+Caroline Jumper,11164.97,8,189,2,5,5,255,À réactiver
+Sarah Brown,6411.0,6,188,2,3,5,235,À réactiver
+Denny Blanton,1711.69,4,187,2,2,3,223,À réactiver
+Scott Cohen,3729.79,8,187,2,4,4,244,À réactiver
+Steven Cartwright,5226.21,11,187,2,5,5,255,À réactiver
+Michelle Arnett,2453.28,6,186,2,3,3,233,À réactiver
+Alex Avila,5563.56,5,184,2,3,5,235,À réactiver
+Fred Chung,3889.37,7,184,2,4,4,244,À réactiver
+Neil Ducich,2893.45,6,183,2,3,4,234,À réactiver
+Thomas Thornton,1427.04,8,183,2,4,2,242,Clients à risque
+Sheri Gordon,1884.8,8,183,2,4,3,243,À réactiver
+Michael Oakman,154.29,2,180,2,1,1,211,Clients à risque
+Rob Dowd,2832.9,9,180,2,5,4,254,À réactiver
+Jim Kriz,4760.43,9,180,2,5,5,255,À réactiver
+Linda Southworth,2845.27,6,178,2,3,4,234,À réactiver
+Jenna Caffey,1058.11,1,175,2,1,2,212,Clients à risque
+John Huston,528.91,6,174,2,3,1,231,Clients à risque
+Noel Staavos,2857.75,12,174,2,5,4,254,À réactiver
+Tom Stivers,2054.14,5,172,2,2,3,223,À réactiver
+Natalie Webber,7234.01,7,172,2,4,5,245,À réactiver
+Rick Reed,3302.26,6,170,2,3,4,234,À réactiver
+Mark Hamilton,2146.69,7,170,2,4,3,243,À réactiver
+Magdelene Morse,1314.02,4,168,2,1,2,212,Clients à risque
+Anthony Johnson,4501.39,7,166,2,4,5,245,À réactiver
+Alejandro Ballentine,914.53,9,166,2,5,1,251,Clients à risque
+Sean Wendt,1019.04,3,162,2,1,2,212,Clients à risque
+Cari Schnelling,537.63,6,162,2,3,1,231,Clients à risque
+Shaun Weien,2835.56,6,162,2,3,4,234,À réactiver
+Anne McFarland,5664.02,8,162,2,4,5,245,À réactiver
+Eric Barreto,944.6,5,161,2,2,2,222,Clients à risque
+Annie Zypern,1622.02,6,160,2,3,2,232,Clients à risque
+Christine Phan,5817.19,7,160,2,4,5,245,À réactiver
+Nathan Mautz,6459.34,7,160,2,4,5,245,À réactiver
+Philisse Overcash,4893.04,9,160,2,5,5,255,À réactiver
+Harold Ryan,5248.79,7,159,2,4,5,245,À réactiver
+Evan Minnotte,366.82,3,158,2,1,1,211,Clients à risque
+John Castell,2772.05,9,158,2,5,4,254,À réactiver
+George Zrebassa,2454.62,4,157,2,2,3,223,À réactiver
+Matt Hagelstein,1252.8,4,155,2,1,2,212,Clients à risque
+Vivek Gonzalez,846.01,6,154,2,3,1,231,Clients à risque
+Laura Armstrong,8673.22,11,154,2,5,5,255,À réactiver
+Tony Chapman,1244.98,9,153,2,5,2,252,Clients à risque
+Greg Matthias,3163.63,6,152,2,3,4,234,À réactiver
+Laurel Beltran,4985.68,8,152,2,4,5,245,À réactiver
+Eugene Hildebrand,3082.65,10,152,2,5,4,254,À réactiver
+Erin Ashbrook,2752.44,12,152,2,5,4,254,À réactiver
+Larry Hughes,287.43,3,151,2,1,1,211,Clients à risque
+Eric Murdock,933.7,5,151,2,2,1,221,Clients à risque
+Heather Kirkland,4877.78,8,151,2,4,5,245,À réactiver
+Scot Coram,4371.96,4,149,2,2,5,225,À réactiver
+George Ashbrook,3797.23,5,149,2,3,4,234,À réactiver
+Todd Boyes,834.33,5,146,2,2,1,221,Clients à risque
+Fred McMath,2523.27,9,145,2,5,3,253,À réactiver
+Ivan Liston,5040.74,7,142,2,4,5,245,À réactiver
+Nora Preis,7903.18,7,138,2,4,5,245,À réactiver
+Bill Overfelt,2682.73,5,137,2,2,3,223,À réactiver
+Emily Ducich,3484.92,8,135,2,4,4,244,À réactiver
+Edward Hooks,9940.38,10,135,2,5,5,255,À réactiver
+Pauline Johnson,1677.54,6,134,2,3,2,232,Clients à risque
+Denny Ordway,1300.03,9,133,2,5,2,252,Clients à risque
+Lisa Ryan,1879.31,5,132,2,2,3,223,À réactiver
+Eleni McCrary,2567.01,5,132,2,2,3,223,À réactiver
+Candace McMahon,1673.89,6,131,2,3,2,232,Clients à risque
+Tony Molinari,1094.68,3,130,2,1,2,212,Clients à risque
+Heather Jas,358.1,5,126,2,2,1,221,Clients à risque
+Steve Carroll,1254.64,6,126,2,3,2,232,Clients à risque
+Darren Powers,897.52,8,126,2,4,1,241,Clients à risque
+Mathew Reese,639.18,4,125,2,1,1,211,Clients à risque
+Allen Rosenblatt,2236.13,5,125,2,2,3,223,À réactiver
+Shui Tom,433.34,7,125,2,3,1,231,Clients à risque
+Ashley Jarboe,1829.9,6,121,2,3,3,233,À réactiver
+Bart Watters,4750.36,8,121,2,4,5,245,À réactiver
+Rob Lucas,6234.91,8,121,2,4,5,245,À réactiver
+Maxwell Schwartz,3144.68,9,121,2,5,4,254,À réactiver
+Jeremy Farry,890.95,10,121,2,5,1,251,Clients à risque
+Sung Shariari,964.64,5,120,2,2,2,222,Clients à risque
+Christine Kargatis,2945.32,5,120,2,2,4,224,À réactiver
+Cynthia Arntzen,3041.57,7,120,2,4,4,244,À réactiver
+Rick Wilson,7397.4,7,120,2,4,5,245,À réactiver
+Ralph Kennedy,1460.19,3,119,2,1,2,212,Clients à risque
+Jill Stevenson,1417.65,4,119,2,2,2,222,Clients à risque
+Ted Butterfield,1451.36,4,119,2,2,2,222,Clients à risque
+Dorris liebe,755.6,5,119,2,2,1,221,Clients à risque
+Janet Lee,2203.7,5,119,2,2,3,223,À réactiver
+Bill Eplett,4204.68,5,119,2,3,4,234,À réactiver
+Aleksandra Gannaway,367.55,4,118,2,1,1,211,Clients à risque
+Katrina Bavinger,908.82,3,117,2,1,1,211,Clients à risque
+Greg Maxwell,6049.97,3,117,2,1,5,215,À réactiver
+Vivian Mathis,380.69,5,117,2,2,1,221,Clients à risque
+John Dryer,2152.35,5,117,2,2,3,223,À réactiver
+Maribeth Dona,2716.41,6,117,2,3,3,233,À réactiver
+Helen Wasserman,4827.93,7,117,2,4,5,245,À réactiver
+Tiffany House,1022.2,8,117,2,4,2,242,Clients à risque
+Julie Kriz,2932.48,10,117,2,5,4,254,À réactiver
+Michael Grace,1242.83,5,116,2,2,2,222,Clients à risque
+Jasper Cacioppo,71.26,4,114,2,1,1,211,Clients à risque
+Trudy Glocke,2074.66,4,114,2,2,3,223,À réactiver
+Robert Dilbeck,2745.89,4,114,2,2,4,224,À réactiver
+Allen Goldenen,200.94,5,114,2,2,1,221,Clients à risque
+Phillip Flathmann,2206.13,5,114,2,2,3,223,À réactiver
+Dario Medina,1322.03,7,114,2,3,2,232,Clients à risque
+Nicole Fjeld,2031.47,7,114,2,4,3,243,À réactiver
+Ruben Dartt,3133.92,9,114,2,5,4,254,À réactiver
+Eudokia Martin,1041.04,4,113,2,1,2,212,Clients à risque
+Eugene Barchas,3071.13,6,113,2,3,4,234,À réactiver
+Joy Daniels,385.43,6,112,2,3,1,231,Clients à risque
+Matt Connell,2258.19,8,112,2,4,3,243,À réactiver
+Grace Kelly,6497.27,9,112,2,5,5,255,À réactiver
+Keith Dawkins,8181.26,12,112,2,5,5,255,À réactiver
+Alex Russell,1055.69,4,111,2,1,2,212,Clients à risque
+Skye Norling,1860.42,6,111,2,3,3,233,À réactiver
+Ryan Crowe,652.64,4,110,2,1,1,211,Clients à risque
+Shahid Shariari,3056.81,6,110,2,3,4,234,À réactiver
+John Murray,7625.08,7,109,2,4,5,245,À réactiver
+Speros Goranitis,3118.89,5,108,2,2,4,224,À réactiver
+Pamela Stobb,2181.48,6,107,2,3,3,233,À réactiver
+Dorothy Badders,3908.8,7,107,2,4,4,244,À réactiver
+Tracy Blumstein,4737.49,9,107,2,5,5,255,À réactiver
+Theresa Coyne,1038.26,1,106,2,1,2,212,Clients à risque
+Carl Ludwig,1262.01,4,106,2,1,2,212,Clients à risque
+Charles Crestani,2471.65,7,106,2,4,3,243,À réactiver
+Gene McClure,1255.68,10,106,2,5,2,252,Clients à risque
+Barry Blumstein,744.34,5,105,2,2,1,221,Clients à risque
+Evan Henry,923.88,6,105,2,3,1,231,Clients à risque
+Jay Fein,1911.84,6,105,2,3,3,233,À réactiver
+Tom Prescott,5329.0,5,104,2,3,5,235,À réactiver
+Meg O'Connel,1687.03,8,104,2,4,2,242,Clients à risque
+Pete Armstrong,729.41,6,103,3,3,1,331,Clients à risque
+Tamara Manning,2819.03,7,103,3,4,4,344,Clients fidèles
+Jessica Myrick,1733.44,7,102,3,4,3,343,Clients fidèles
+Julie Prescott,1707.71,9,102,3,5,3,353,Clients fidèles
+Seth Vernon,11470.95,10,101,3,5,5,355,Clients fidèles
+Muhammed Lee,162.23,2,100,3,1,1,311,Clients à risque
+Brendan Murry,808.16,6,100,3,3,1,331,Clients à risque
+Dan Lawera,444.02,7,100,3,3,1,331,Clients à risque
+Emily Burns,2767.22,10,100,3,5,4,354,Clients fidèles
+Kean Thornton,4642.09,10,100,3,5,5,355,Clients fidèles
+Michael Granlund,776.38,9,99,3,5,1,351,Clients fidèles
+Don Weiss,344.08,5,98,3,2,1,321,Clients à risque
+Bobby Elias,2261.44,5,98,3,2,3,323,Clients à potentiel
+Kristina Nunn,2003.01,7,98,3,4,3,343,Clients fidèles
+Maya Herman,2203.78,7,98,3,4,3,343,Clients fidèles
+Arthur Prichep,3323.56,10,98,3,5,4,354,Clients fidèles
+Kelly Collister,3908.26,4,97,3,2,4,324,Clients à potentiel
+Brian Dahlen,2783.19,6,97,3,3,4,334,Clients à potentiel
+Frank Atkinson,2984.05,7,97,3,4,4,344,Clients fidèles
+Anna Gayman,3489.04,7,97,3,4,4,344,Clients fidèles
+Karen Ferguson,10604.27,7,97,3,4,5,345,Clients fidèles
+Philip Brown,1456.95,8,97,3,4,2,342,Clients fidèles
+Paul Prost,7252.61,10,97,3,5,5,355,Clients fidèles
+Katrina Willman,4416.52,5,96,3,3,5,335,Clients à potentiel
+Luke Schmidt,1010.26,6,96,3,3,2,332,Clients à risque
+Carol Adams,3789.72,6,96,3,3,4,334,Clients à potentiel
+Raymond Buch,15117.34,6,96,3,3,5,335,Clients à potentiel
+Carol Triggs,3241.9,8,96,3,4,4,344,Clients fidèles
+Arthur Gainer,4510.8,10,96,3,5,5,355,Clients fidèles
+Sanjit Jacobs,3949.66,12,95,3,5,4,354,Clients fidèles
+Darrin Sayre,1762.21,4,93,3,2,3,323,Clients à potentiel
+Bruce Degenhardt,1526.5,6,93,3,3,2,332,Clients à risque
+Sonia Cooley,799.8,4,92,3,1,1,311,Clients à risque
+Michelle Ellison,1256.94,4,92,3,1,2,312,Clients à risque
+Maureen Gastineau,2350.19,4,92,3,2,3,323,Clients à potentiel
+Jas O'Carroll,1934.27,6,92,3,3,3,333,Clients à potentiel
+Ann Steele,833.4,7,92,3,3,1,331,Clients à risque
+Joseph Airdo,6491.03,8,92,3,4,5,345,Clients fidèles
+Cari Sayre,1278.95,5,91,3,2,2,322,Clients à risque
+Bradley Talbott,2684.49,5,91,3,2,3,323,Clients à potentiel
+Barbara Fisher,599.8,7,91,3,3,1,331,Clients à risque
+Ellis Ballard,964.45,4,90,3,1,2,312,Clients à risque
+Tanja Norvell,3130.22,7,90,3,4,4,344,Clients fidèles
+Paul Van Hugh,2876.05,5,89,3,2,4,324,Clients à potentiel
+Becky Pak,1697.86,6,89,3,3,2,332,Clients à risque
+Roland Fjeld,2341.3,7,89,3,4,3,343,Clients fidèles
+Rob Williams,3279.75,9,89,3,5,4,354,Clients fidèles
+Steve Chapman,2576.41,10,89,3,5,3,353,Clients fidèles
+Laurel Workman,2238.06,5,88,3,2,3,323,Clients à potentiel
+Aaron Smayling,3050.69,7,88,3,4,4,344,Clients fidèles
+Phillina Ober,1056.86,5,86,3,2,2,322,Clients à risque
+Cyra Reiten,1397.87,3,85,3,1,2,312,Clients à risque
+Muhammed MacIntyre,775.41,9,85,3,5,1,351,Clients fidèles
+Nick Zandusky,2488.31,9,85,3,5,3,353,Clients fidèles
+Mike Gockenbach,3061.54,4,84,3,2,4,324,Clients à potentiel
+Joe Kamberova,4769.9,9,84,3,5,5,355,Clients fidèles
+Dean percer,7198.76,11,84,3,5,5,355,Clients fidèles
+Barry Pond,983.42,5,83,3,2,2,322,Clients à risque
+Gary McGarr,3582.82,7,83,3,4,4,344,Clients fidèles
+Evan Bailliet,1186.33,6,82,3,3,2,332,Clients à risque
+Cathy Prescott,5402.25,8,82,3,4,5,345,Clients fidèles
+Cyma Kinney,1582.11,9,82,3,5,2,352,Clients fidèles
+Scot Wooten,1085.08,7,81,3,3,2,332,Clients à risque
+Michelle Lonsdale,742.08,3,79,3,1,1,311,Clients à risque
+Robert Waldorf,3495.65,5,79,3,3,4,334,Clients à potentiel
+Sean Miller,25043.05,5,79,3,3,5,335,Clients à potentiel
+Natalie Fritzler,8080.47,6,79,3,3,5,335,Clients à potentiel
+Steve Nguyen,3127.96,7,79,3,4,4,344,Clients fidèles
+Sung Pak,4282.94,10,79,3,5,5,355,Clients fidèles
+Craig Reiter,1600.55,4,78,3,2,2,322,Clients à risque
+Andrew Gjertsen,1419.25,7,78,3,3,2,332,Clients à risque
+Ed Ludwig,124.28,2,77,3,1,1,311,Clients à risque
+Anthony Garverick,170.58,4,77,3,1,1,311,Clients à risque
+Berenike Kampe,659.14,6,77,3,3,1,331,Clients à risque
+Stuart Van,1271.09,4,76,3,1,2,312,Clients à risque
+Ricardo Sperren,3221.29,5,76,3,2,4,324,Clients à potentiel
+Marc Crier,2725.98,8,76,3,4,4,344,Clients fidèles
+Dionis Lloyd,3539.32,8,76,3,4,4,344,Clients fidèles
+Bobby Odegard,130.83,2,75,3,1,1,311,Clients à risque
+Victoria Pisteka,3360.53,7,75,3,4,4,344,Clients fidèles
+Anthony Jacobs,4867.34,7,75,3,4,5,345,Clients fidèles
+Gary Hansen,2819.47,9,75,3,5,4,354,Clients fidèles
+Astrea Jones,629.25,3,74,3,1,1,311,Clients à risque
+Barry Franzأ¶sisch,2888.51,8,74,3,4,4,344,Clients fidèles
+Hilary Holden,218.67,2,72,3,1,1,311,Clients à risque
+Mary O'Rourke,922.49,4,72,3,1,1,311,Clients à risque
+Tracy Hopkins,4234.1,7,72,3,4,4,344,Clients fidèles
+Rick Duston,4272.93,8,72,3,4,5,345,Clients fidèles
+Michael Paige,3983.64,9,72,3,5,4,354,Clients fidèles
+Pete Takahito,158.46,3,71,3,1,1,311,Clients à risque
+Ivan Gibson,744.57,4,71,3,1,1,311,Clients à risque
+Muhammed Yedwab,3601.88,10,71,3,5,4,354,Clients fidèles
+Patricia Hirasaki,729.65,1,70,3,1,1,311,Clients à risque
+Sara Luxemburg,3046.53,6,70,3,3,4,334,Clients à potentiel
+Susan Pistek,3990.69,6,70,3,3,4,334,Clients à potentiel
+Neil Knudson,572.05,7,70,3,3,1,331,Clients à risque
+Frank Carlisle,3418.74,7,70,3,4,4,344,Clients fidèles
+Tom Ashbrook,14595.62,4,69,3,2,5,325,Clients à potentiel
+David Wiener,1080.75,6,69,3,3,2,332,Clients à risque
+Brian DeCherney,1538.11,6,69,3,3,2,332,Clients à risque
+Helen Abelman,2163.3,7,69,3,4,3,343,Clients fidèles
+Paul Stevenson,1278.64,8,69,3,4,2,342,Clients fidèles
+Marina Lichtenstein,2722.84,9,69,3,5,4,354,Clients fidèles
+Jocasta Rupert,863.88,1,68,3,1,1,311,Clients à risque
+Randy Bradley,1008.2,2,68,3,1,2,312,Clients à risque
+Benjamin Farhat,1585.16,4,65,3,2,2,322,Clients à risque
+Olvera Toch,3818.62,5,65,3,3,4,334,Clients à potentiel
+Jamie Frazer,2239.61,6,65,3,3,3,333,Clients à potentiel
+Tamara Willingham,5278.83,7,64,3,4,5,345,Clients fidèles
+Matt Abelman,4299.16,11,64,3,5,5,355,Clients fidèles
+Sue Ann Reed,4767.34,10,63,3,5,5,355,Clients fidèles
+George Bell,1568.44,11,62,3,5,2,352,Clients fidèles
+Jamie Kunitz,4262.29,4,61,3,2,4,324,Clients à potentiel
+Ryan Akin,1686.92,5,61,3,2,2,322,Clients à risque
+Jim Karlsson,3760.03,7,61,3,4,4,344,Clients fidèles
+Michelle Moray,2749.88,8,61,3,4,4,344,Clients fidèles
+Adrian Hane,1735.51,7,60,3,4,3,343,Clients fidèles
+Craig Yedwab,2004.08,7,60,3,4,3,343,Clients fidèles
+Sandra Flanagan,763.55,7,59,3,3,1,331,Clients à risque
+Sarah Foster,3422.79,9,59,3,5,4,354,Clients fidèles
+Nancy Lomonaco,1418.09,4,58,3,2,2,322,Clients à risque
+Thea Hudgings,2942.77,4,58,3,2,4,324,Clients à potentiel
+Thomas Boland,3589.3,4,58,3,2,4,324,Clients à potentiel
+Nora Paige,3908.4,5,58,3,3,4,334,Clients à potentiel
+Cindy Stewart,5690.05,6,58,3,3,5,335,Clients à potentiel
+Anthony Rawles,4523.34,8,58,3,4,5,345,Clients fidèles
+Ken Heidel,3918.97,9,58,3,5,4,354,Clients fidèles
+Beth Fritzler,791.99,3,57,3,1,1,311,Clients à risque
+Denise Leinenbach,585.02,4,57,3,1,1,311,Clients à risque
+Peter Bأ¼hler,688.32,4,57,3,1,1,311,Clients à risque
+Kimberly Carter,1146.05,4,57,3,1,2,312,Clients à risque
+Clay Rozendal,2148.85,4,57,3,2,3,323,Clients à potentiel
+Julie Creighton,858.58,5,57,3,2,1,321,Clients à risque
+Eva Jacobs,2656.69,5,57,3,2,3,323,Clients à potentiel
+Bruce Geld,1006.36,6,57,3,3,2,332,Clients à risque
+Daniel Lacy,3272.2,6,57,3,3,4,334,Clients à potentiel
+Darrin Martin,6345.1,7,57,3,4,5,345,Clients fidèles
+Paul Gonzalez,1987.16,9,57,3,5,3,353,Clients fidèles
+Jack O'Briant,3254.95,9,57,3,5,4,354,Clients fidèles
+Justin MacKendrick,2833.93,10,57,3,5,4,354,Clients fidèles
+Grant Thornton,9351.21,3,56,3,1,5,315,Clients à potentiel
+Christina Anderson,2638.33,8,56,3,4,3,343,Clients fidèles
+Katherine Murray,5620.19,8,56,3,4,5,345,Clients fidèles
+Alan Haines,1587.45,4,55,3,2,2,322,Clients à risque
+Ruben Ausman,3546.22,6,55,3,3,4,334,Clients à potentiel
+Anna Andreadi,5086.94,6,55,3,3,5,335,Clients à potentiel
+Troy Staebel,2820.42,7,55,3,4,4,344,Clients fidèles
+Elizabeth Moffitt,2339.6,8,55,3,4,3,343,Clients fidèles
+Carol Darley,639.77,3,54,3,1,1,311,Clients à risque
+Roger Barcio,2067.45,4,54,3,2,3,323,Clients à potentiel
+Harry Greene,785.63,5,54,3,2,1,321,Clients à risque
+Liz Carlisle,2095.06,5,54,3,2,3,323,Clients à potentiel
+Maris LaWare,2885.26,5,54,3,2,4,324,Clients à potentiel
+Victoria Brennan,2005.6,6,54,3,3,3,333,Clients à potentiel
+Valerie Mitchum,2454.87,7,54,3,4,3,343,Clients fidèles
+Jill Fjeld,4198.33,8,54,3,4,4,344,Clients fidèles
+Adam Bellavance,7755.62,8,54,3,4,5,345,Clients fidèles
+Zuschuss Carroll,8025.71,13,54,3,5,5,355,Clients fidèles
+Erin Creighton,461.91,5,53,3,2,1,321,Clients à risque
+Deborah Brumfield,4655.9,8,53,4,4,5,445,Champions
+Kean Nguyen,2171.96,5,52,4,2,3,423,Clients à potentiel
+Peter McVee,4115.66,4,51,4,2,4,424,Clients à potentiel
+Matt Collister,2426.07,6,51,4,3,3,433,Clients à potentiel
+Joel Eaton,6760.81,13,51,4,5,5,455,Champions
+Ann Blume,1515.86,4,50,4,2,2,422,Clients à risque
+Gary Hwang,4172.85,4,50,4,2,4,424,Clients à potentiel
+Daniel Raglin,8350.87,8,50,4,5,5,455,Champions
+Thomas Brumley,816.17,4,49,4,1,1,411,Clients à risque
+Michelle Huthwaite,2984.95,5,49,4,2,4,424,Clients à potentiel
+Catherine Glotzbach,904.47,6,49,4,3,1,431,Clients à risque
+Meg Tillman,2890.14,6,49,4,3,4,434,Clients à potentiel
+Jeremy Lonsdale,3173.87,6,49,4,3,4,434,Clients à potentiel
+Larry Blacks,50.19,3,48,4,1,1,411,Clients à risque
+Nathan Gelder,1395.94,5,48,4,2,2,422,Clients à risque
+Nat Gilpin,1869.58,5,48,4,2,3,423,Clients à potentiel
+Eugene Moren,4588.44,6,48,4,3,5,435,Clients à potentiel
+David Bremer,2973.09,7,48,4,4,4,444,Champions
+Jim Epp,7754.98,7,48,4,4,5,445,Champions
+Don Jones,2501.69,8,48,4,4,3,443,Clients fidèles
+Sylvia Foulston,3336.54,9,48,4,5,4,454,Champions
+Ed Braxton,3644.98,9,48,4,5,4,454,Champions
+Maria Bertelson,1548.7,10,48,4,5,2,452,Clients fidèles
+Erin Mull,228.99,4,47,4,1,1,411,Clients à risque
+Sean Braxton,8057.89,7,47,4,4,5,445,Champions
+Stefania Perrino,5440.32,9,47,4,5,5,455,Champions
+Cassandra Brandow,5730.67,9,47,4,5,5,455,Champions
+Ken Lonsdale,14175.23,12,47,4,5,5,455,Champions
+Arthur Wiediger,2852.97,7,46,4,4,4,444,Champions
+Pauline Webber,3454.92,10,46,4,5,4,454,Champions
+Joe Elijah,8697.84,10,46,4,5,5,455,Champions
+Dana Kaydos,4282.18,5,45,4,3,5,435,Clients à potentiel
+Mitch Willingham,5253.88,2,44,4,1,5,415,Clients à potentiel
+Eileen Kiefer,1303.48,4,44,4,1,2,412,Clients à risque
+Mick Brown,1428.23,7,44,4,3,2,432,Clients à risque
+Jay Kimmel,2136.46,7,44,4,4,3,443,Clients fidèles
+Christopher Conant,12129.07,5,43,4,3,5,435,Clients à potentiel
+Hunter Lopez,12873.3,6,43,4,3,5,435,Clients à potentiel
+Joy Bell-,644.12,7,43,4,3,1,431,Clients à risque
+Greg Guthrie,2224.0,9,43,4,5,3,453,Clients fidèles
+Clytie Kelty,2372.75,11,43,4,5,3,453,Clients fidèles
+Xylona Preis,2374.66,11,43,4,5,3,453,Clients fidèles
+Christina DeMoss,1205.58,2,42,4,1,2,412,Clients à risque
+Jim Sink,990.2,3,42,4,1,2,412,Clients à risque
+Russell D'Ascenzo,970.94,4,42,4,1,2,412,Clients à risque
+Jane Waco,7721.71,6,42,4,3,5,435,Clients à potentiel
+Dave Kipp,2650.56,7,42,4,4,3,443,Clients fidèles
+Maria Etezadi,10663.73,10,42,4,5,5,455,Champions
+Adrian Shami,58.82,2,41,4,1,1,411,Clients à risque
+Aimee Bixby,966.71,5,41,4,2,2,422,Clients à risque
+Dorothy Dickinson,269.54,6,41,4,3,1,431,Clients à risque
+Anne Pryor,545.93,6,41,4,3,1,431,Clients à risque
+Katherine Ducich,1888.96,6,41,4,3,3,433,Clients à potentiel
+Nathan Cano,2218.99,6,41,4,3,3,433,Clients à potentiel
+Jonathan Howell,959.48,7,41,4,3,2,432,Clients à risque
+Richard Bierner,1864.16,7,41,4,4,3,443,Clients fidèles
+Art Ferguson,2052.91,7,41,4,4,3,443,Clients fidèles
+Stewart Carmichael,4492.66,7,41,4,4,5,445,Champions
+Linda Cazamias,4492.95,8,41,4,4,5,445,Champions
+Justin Deggeller,8828.03,8,41,4,5,5,455,Champions
+Mick Crebagga,2218.98,10,41,4,5,3,453,Clients fidèles
+Adrian Barton,14473.57,10,41,4,5,5,455,Champions
+Liz Pelletier,756.61,4,40,4,1,1,411,Clients à risque
+Carlos Daly,2033.97,5,40,4,2,3,423,Clients à potentiel
+Erica Smith,3510.46,5,40,4,3,4,434,Clients à potentiel
+Katharine Harms,3312.86,8,40,4,4,4,444,Champions
+Sample Company A,4624.57,9,40,4,5,5,455,Champions
+Barry Franz,1333.88,4,39,4,1,2,412,Clients à risque
+Benjamin Patterson,1181.49,5,39,4,2,2,422,Clients à risque
+Patrick Jones,1220.09,8,39,4,4,2,442,Clients fidèles
+Cindy Chapman,1659.44,9,39,4,5,2,452,Clients fidèles
+Chloris Kastensmidt,3154.86,13,39,4,5,4,454,Champions
+Frank Olsen,2678.44,10,38,4,5,3,453,Clients fidèles
+Christopher Martinez,8954.02,4,37,4,2,5,425,Clients à potentiel
+Janet Molinari,1804.15,5,37,4,2,3,423,Clients à potentiel
+Janet Martin,3159.12,6,37,4,3,4,434,Clients à potentiel
+Jennifer Patt,1669.13,7,37,4,4,2,442,Clients fidèles
+Tamara Dahlen,1434.55,9,37,4,5,2,452,Clients fidèles
+Dan Campbell,3336.17,9,37,4,5,4,454,Champions
+Frank Hawley,4256.27,10,37,4,5,4,454,Champions
+Michael Dominguez,1204.91,5,36,4,2,2,422,Clients à risque
+Patrick Ryan,1840.18,5,36,4,2,3,423,Clients à potentiel
+Brooke Gillingham,1874.17,6,36,4,3,3,433,Clients à potentiel
+Todd Sumrall,11891.75,6,36,4,3,5,435,Clients à potentiel
+Kelly Andreada,1519.51,7,36,4,4,2,442,Clients fidèles
+Shaun Chance,1875.0,7,36,4,4,3,443,Clients fidèles
+Roland Schwarz,4159.77,8,36,4,4,4,444,Champions
+Frank Merwin,3736.2,9,36,4,5,4,454,Champions
+Greg Tran,11820.12,11,36,4,5,5,455,Champions
+Patrick Gardner,3086.91,13,36,4,5,4,454,Champions
+Tracy Zic,1707.29,4,35,4,2,2,422,Clients à risque
+Henia Zydlo,886.52,5,35,4,2,1,421,Clients à risque
+Brendan Sweed,2454.93,6,35,4,3,3,433,Clients à potentiel
+Bradley Drucker,4411.24,6,35,4,3,5,435,Clients à potentiel
+Rose O'Brian,3815.48,7,35,4,4,4,444,Champions
+Edward Becker,3236.31,10,35,4,5,4,454,Champions
+Sam Zeldin,3625.33,11,35,4,5,4,454,Champions
+Guy Thornton,226.44,4,34,4,1,1,411,Clients à risque
+Lynn Smith,1008.14,6,34,4,3,2,432,Clients à risque
+Michael Nguyen,2477.95,6,34,4,3,3,433,Clients à potentiel
+Frank Gastineau,1383.14,7,34,4,3,2,432,Clients à risque
+Corey Catlett,2540.63,7,34,4,4,3,443,Clients fidèles
+Liz Thompson,2936.25,8,34,4,4,4,444,Champions
+Adam Hart,3250.34,10,34,4,5,4,454,Champions
+Justin Ritter,2201.69,5,33,4,2,3,423,Clients à potentiel
+Lindsay Williams,3230.31,6,33,4,3,4,434,Clients à potentiel
+Doug Bickford,1989.05,7,33,4,4,3,443,Clients fidèles
+Bill Donatelli,5426.56,11,33,4,5,5,455,Champions
+Brian Moss,7294.19,11,33,4,5,5,455,Champions
+Resi Pأ¶lking,5153.08,12,33,4,5,5,455,Champions
+Deirdre Greer,3195.82,5,32,4,2,4,424,Clients à potentiel
+Rick Hansen,3621.38,5,32,4,3,4,434,Clients à potentiel
+Ross Baird,4932.61,8,32,4,4,5,445,Champions
+Ted Trevino,4915.6,7,31,4,4,5,445,Champions
+Victor Preis,993.9,3,30,4,1,2,412,Clients à risque
+Stuart Calhoun,279.26,4,30,4,1,1,411,Clients à risque
+Maria Zettner,593.61,4,30,4,1,1,411,Clients à risque
+Scott Williamson,1966.65,6,30,4,3,3,433,Clients à potentiel
+Harold Pawlan,1990.31,7,30,4,4,3,443,Clients fidèles
+Parhena Norris,1467.15,8,30,4,4,2,442,Clients fidèles
+Trudy Brown,2797.67,9,30,4,5,4,454,Champions
+Shahid Collister,5992.54,9,30,4,5,5,455,Champions
+Dianna Vittorini,3254.49,5,29,4,2,4,424,Clients à potentiel
+Sarah Jordon,1341.04,6,29,4,3,2,432,Clients à risque
+Sean O'Donnell,2602.58,6,29,4,3,3,433,Clients à potentiel
+Sean Christensen,3650.47,6,29,4,3,4,434,Clients à potentiel
+Joseph Holt,7955.0,6,29,4,3,5,435,Clients à potentiel
+Max Ludwig,1663.17,7,29,4,4,2,442,Clients fidèles
+Maribeth Yedwab,2254.28,7,29,4,4,3,443,Clients fidèles
+Craig Carreira,2269.7,7,29,4,4,3,443,Clients fidèles
+Matthew Grinstein,3785.28,7,29,4,4,4,444,Champions
+Alan Dominguez,6106.88,8,29,4,4,5,445,Champions
+Sally Hughsby,2465.66,12,29,4,5,3,453,Clients fidèles
+Juliana Krohn,3747.67,3,28,4,1,4,414,Clients à potentiel
+Alice McCarthy,814.01,5,28,4,2,1,421,Clients à risque
+Bill Stewart,3887.83,5,28,4,3,4,434,Clients à potentiel
+Joy Smith,2516.49,6,28,4,3,3,433,Clients à potentiel
+Roy Phan,2055.36,7,28,4,4,3,443,Clients fidèles
+Giulietta Weimer,2189.02,7,28,4,4,3,443,Clients fidèles
+Max Engle,1908.45,8,28,4,4,3,443,Clients fidèles
+Michael Kennedy,2302.37,8,28,4,4,3,443,Clients fidèles
+Barry Gonzalez,2798.95,8,28,4,4,4,444,Champions
+Kunst Miller,4909.47,8,28,4,4,5,445,Champions
+Adam Shillingsburg,3255.31,9,28,4,5,4,454,Champions
+Erin Smith,4657.92,9,28,4,5,5,455,Champions
+Brenda Bowman,6765.73,9,28,4,5,5,455,Champions
+Victoria Wilson,6134.04,10,28,4,5,5,455,Champions
+Chuck Sachs,550.64,2,27,4,1,1,411,Clients à risque
+Clay Cheatham,113.83,3,27,4,1,1,411,Clients à risque
+Corinna Mitchell,5890.51,5,27,4,3,5,435,Clients à potentiel
+Matt Collins,1303.89,8,27,4,4,2,442,Clients fidèles
+Lena Cacioppo,2580.7,8,27,4,4,3,443,Clients fidèles
+Toby Carlisle,4266.81,8,27,4,4,5,445,Champions
+Mark Van Huff,1560.05,9,27,4,5,2,452,Clients fidèles
+Natalie DeCherney,4326.14,9,27,4,5,5,455,Champions
+Larry Tron,329.88,3,26,4,1,1,411,Clients à risque
+Michael Stewart,855.12,6,26,4,3,1,431,Clients à risque
+Charles McCrossin,2533.31,6,26,4,3,3,433,Clients à potentiel
+Lena Radford,5142.89,6,26,5,3,5,535,Clients à potentiel
+Doug O'Connell,1267.32,7,26,5,3,2,532,Clients à risque
+Katrina Edelman,1453.28,7,26,5,3,2,532,Clients à risque
+Christy Brittain,1949.2,8,26,5,4,3,543,Clients fidèles
+Chris Selesnick,2754.22,12,26,5,5,4,554,Champions
+Bart Folk,272.95,3,25,5,1,1,511,Clients à risque
+Patrick Bzostek,740.36,3,25,5,1,1,511,Clients à risque
+Rob Beeghly,528.55,5,25,5,2,1,521,Clients à risque
+Naresj Patel,5529.62,6,25,5,3,5,535,Clients à potentiel
+Alan Barnes,1113.84,8,25,5,4,2,542,Clients fidèles
+Quincy Jones,6108.34,9,25,5,5,5,555,Champions
+Carlos Soltero,3036.55,11,25,5,5,4,554,Champions
+Suzanne McNair,4464.86,11,25,5,5,5,555,Champions
+Brad Norvell,265.3,4,24,5,1,1,511,Clients à risque
+Debra Catini,1174.62,5,23,5,2,2,522,Clients à risque
+Frank Preis,4046.75,8,23,5,4,4,544,Champions
+Brosina Hoffman,6255.35,8,23,5,4,5,545,Champions
+David Smith,2881.81,9,23,5,5,4,554,Champions
+Shahid Hopkins,2180.72,10,23,5,5,3,553,Clients fidèles
+Henry Goldwyn,3247.64,12,23,5,5,4,554,Champions
+Emily Grady,1832.02,5,22,5,2,3,523,Clients à potentiel
+Alan Schoenberger,4260.78,5,22,5,3,4,534,Clients à potentiel
+Carl Weiss,1136.59,6,22,5,3,2,532,Clients à risque
+Keith Herrera,5229.69,6,22,5,3,5,535,Clients à potentiel
+Luke Foster,3930.51,7,22,5,4,4,544,Champions
+Max Jones,6320.75,7,22,5,4,5,545,Champions
+Delfina Latchford,1458.26,8,22,5,4,2,542,Clients fidèles
+Denise Monton,4074.47,8,22,5,4,4,544,Champions
+Angele Hood,738.5,4,21,5,1,1,511,Clients à risque
+Alyssa Tate,1166.07,5,21,5,2,2,522,Clients à risque
+Laurel Elliston,1469.45,6,21,5,3,2,532,Clients à risque
+Herbert Flentye,2533.16,7,21,5,4,3,543,Clients fidèles
+Luke Weiss,5420.51,7,21,5,4,5,545,Champions
+Daniel Byrd,2171.6,8,21,5,4,3,543,Clients fidèles
+Lena Hernandez,2295.33,9,21,5,5,3,553,Clients fidèles
+Roger Demir,1419.74,10,21,5,5,2,552,Clients fidèles
+John Lee,9576.34,10,21,5,5,5,555,Champions
+Damala Kotsonis,3256.48,12,21,5,5,4,554,Champions
+Justin Ellison,2697.25,3,20,5,1,3,513,Clients à potentiel
+Anthony Witt,649.38,4,20,5,1,1,511,Clients à risque
+Stephanie Ulpright,2595.36,7,20,5,4,3,543,Clients fidèles
+Brian Thompson,3196.75,7,20,5,4,4,544,Champions
+Helen Andreada,2584.16,8,20,5,4,3,543,Clients fidèles
+Lindsay Shagiari,2988.67,9,20,5,5,4,554,Champions
+William Brown,6129.71,10,20,5,5,5,555,Champions
+Chris Cortes,3670.26,11,20,5,5,4,554,Champions
+Roy Skaria,22.33,2,19,5,1,1,511,Clients à risque
+Ralph Ritter,615.93,2,19,5,1,1,511,Clients à risque
+Darrin Van Huff,1119.48,5,19,5,2,2,522,Clients à risque
+Alejandro Savely,3214.24,6,19,5,3,4,534,Clients à potentiel
+Mike Vittorini,1734.57,7,19,5,4,3,543,Clients fidèles
+Katherine Nockton,2224.09,8,19,5,4,3,543,Clients fidèles
+Dennis Kane,3318.49,8,19,5,4,4,544,Champions
+Allen Armold,1056.39,9,19,5,5,2,552,Clients fidèles
+Nona Balk,1972.6,9,19,5,5,3,553,Clients fidèles
+Mitch Webber,5341.9,7,17,5,4,5,545,Champions
+Bart Pistole,2442.04,12,17,5,5,3,553,Clients fidèles
+Gary Mitchum,3078.62,6,16,5,3,4,534,Clients à potentiel
+Dave Brooks,4151.51,6,16,5,3,4,534,Clients à potentiel
+Mike Pelletier,4757.33,8,16,5,4,5,545,Champions
+Kelly Lampkin,5016.49,8,16,5,4,5,545,Champions
+Ben Ferrer,5907.97,11,16,5,5,5,555,Champions
+Lena Creighton,7663.13,12,16,5,5,5,555,Champions
+Paul Lucas,239.48,5,15,5,2,1,521,Clients à risque
+Khloe Miller,453.54,5,15,5,2,1,521,Clients à risque
+Saphhira Shifley,1324.03,8,15,5,4,2,542,Clients fidèles
+Andy Yotov,497.01,4,14,5,1,1,511,Clients à risque
+Andrew Roberts,264.86,5,14,5,2,1,521,Clients à risque
+Kalyca Meade,2260.96,6,14,5,3,3,533,Clients à potentiel
+Ross DeVincentis,1137.62,8,14,5,4,2,542,Clients fidèles
+Hallie Redmond,940.59,4,13,5,1,2,512,Clients à risque
+Christine Abelman,1421.95,4,13,5,2,2,522,Clients à risque
+Vicky Freymann,847.94,5,13,5,2,1,521,Clients à risque
+Giulietta Baptist,4716.29,5,13,5,3,5,535,Clients à potentiel
+Logan Currie,2633.58,9,13,5,5,3,553,Clients fidèles
+Annie Thurman,3831.86,10,13,5,5,4,554,Champions
+Arianne Irving,4375.79,10,13,5,5,5,555,Champions
+Harold Engle,755.46,3,12,5,1,1,511,Clients à risque
+Doug Jacobs,3356.4,3,12,5,1,4,514,Clients à potentiel
+Duane Benoit,1155.2,7,12,5,3,2,532,Clients à risque
+Aaron Hawkins,1744.7,7,12,5,4,3,543,Clients fidèles
+Beth Paige,2475.16,7,12,5,4,3,543,Clients fidèles
+Tonja Turnell,5364.81,7,12,5,4,5,545,Champions
+Russell Applegate,4793.54,9,12,5,5,5,555,Champions
+Emily Phan,5478.06,17,12,5,5,5,555,Champions
+Tony Sayre,2243.27,6,11,5,3,3,533,Clients à potentiel
+Amy Cox,5527.85,7,11,5,4,5,545,Champions
+David Kendrick,389.09,2,10,5,1,1,511,Clients à risque
+Dean Katz,4802.39,9,10,5,5,5,555,Champions
+Brian Derr,582.65,3,9,5,1,1,511,Clients à risque
+Bradley Nguyen,1459.34,5,9,5,2,2,522,Clients à risque
+Liz Preis,3104.44,6,9,5,3,4,534,Clients à potentiel
+Yana Sorensen,6720.44,8,9,5,4,5,545,Champions
+Dean Braden,2332.58,10,9,5,5,3,553,Clients fidèles
+Sanjit Engle,12209.44,11,9,5,5,5,555,Champions
+Rick Bensley,4715.47,12,9,5,5,5,555,Champions
+Pete Kriz,8646.93,12,9,5,5,5,555,Champions
+Sally Knutson,883.41,3,8,5,1,1,511,Clients à risque
+Sandra Glassco,3406.58,3,8,5,1,4,514,Clients à potentiel
+Chad McGuire,1661.61,4,8,5,2,2,522,Clients à risque
+Alex Grayson,660.97,5,8,5,2,1,521,Clients à risque
+Jim Mitchum,864.95,5,8,5,2,1,521,Clients à risque
+Sharelle Roach,3233.48,5,8,5,2,4,524,Clients à potentiel
+Jack Lebron,1214.96,6,8,5,3,2,532,Clients à risque
+Charlotte Melton,1475.14,6,8,5,3,2,532,Clients à risque
+Jeremy Pistek,3635.59,7,8,5,4,4,544,Champions
+Theone Pippenger,4454.06,9,8,5,5,5,555,Champions
+Darren Koutras,1687.04,5,7,5,2,2,522,Clients à risque
+Monica Federle,1758.3,5,7,5,2,3,523,Clients à potentiel
+Julia Barnett,2518.12,5,7,5,2,3,523,Clients à potentiel
+Gary Zandusky,4355.15,9,7,5,5,5,555,Champions
+Jennifer Braxton,1791.61,10,7,5,5,3,553,Clients fidèles
+Filia McAdams,2456.64,10,7,5,5,3,553,Clients fidèles
+Michael Moore,3640.26,10,7,5,5,4,554,Champions
+Neola Schneider,2575.86,4,6,5,2,3,523,Clients à potentiel
+James Lanier,1571.52,5,6,5,2,2,522,Clients à risque
+Ann Chong,2537.69,5,6,5,2,3,523,Clients à potentiel
+Robert Marley,5979.1,5,6,5,3,5,535,Clients à potentiel
+Andy Reiter,6608.45,6,6,5,3,5,535,Clients à potentiel
+Roy Franzأ¶sisch,938.86,7,6,5,3,2,532,Clients à risque
+Hunter Glantz,3690.28,7,6,5,4,4,544,Champions
+Nick Crebassa,8241.74,7,6,5,4,5,545,Champions
+Dave Poirier,2215.0,8,6,5,4,3,543,Clients fidèles
+Alan Hwang,4805.34,9,6,5,5,5,555,Champions
+Christine Sundaresam,3202.16,11,6,5,5,4,554,Champions
+Jennifer Halladay,309.28,4,5,5,1,1,511,Clients à risque
+Giulietta Dortch,1888.07,4,5,5,2,3,523,Clients à potentiel
+Joni Wasserman,1049.24,6,5,5,3,2,532,Clients à risque
+Fred Hopkins,6987.2,8,5,5,4,5,545,Champions
+Cynthia Voltz,2370.31,9,5,5,5,3,553,Clients fidèles
+Ralph Arnett,2617.91,9,5,5,5,3,553,Clients fidèles
+Mick Hernandez,5503.09,9,5,5,5,5,555,Champions
+Guy Armstrong,1398.38,11,5,5,5,2,552,Clients fidèles
+Yoseph Carroll,5454.35,5,4,5,3,5,535,Clients à potentiel
+Tracy Collins,742.56,7,4,5,3,1,531,Clients à risque
+Karen Bern,3152.61,7,4,5,4,4,544,Champions
+Patrick O'Brill,7473.83,11,4,5,5,5,555,Champions
+Dan Reichenbach,6528.03,9,3,5,5,5,555,Champions
+Greg Hansen,146.94,2,2,5,1,1,511,Clients à risque
+Pamela Coakley,1832.06,4,2,5,2,3,523,Clients à potentiel
+Lori Olson,644.35,5,2,5,2,1,521,Clients à risque
+Jennifer Ferguson,2309.43,5,2,5,2,3,523,Clients à potentiel
+Jason Gross,2240.58,6,2,5,3,3,533,Clients à potentiel
+Erica Hernandez,1219.53,7,2,5,3,2,532,Clients à risque
+Kristen Hastings,5990.8,7,2,5,4,5,545,Champions
+Susan Vittorini,1903.49,8,2,5,4,3,543,Clients fidèles
+Christopher Schild,3651.86,9,2,5,5,4,554,Champions
+Harry Marie,8236.76,10,2,5,5,5,555,Champions
+Katherine Hughes,3100.61,6,1,5,3,4,534,Clients à potentiel
+Ken Brennan,983.92,7,1,5,3,2,532,Clients à risque
+Bruce Stewart,2562.38,7,1,5,4,3,543,Clients fidèles
+Michael Chen,3805.71,7,1,5,4,4,544,Champions
+Ben Peterman,3675.86,9,1,5,5,4,554,Champions
+James Galang,6366.39,11,1,5,5,5,555,Champions
+Erica Bern,1643.26,4,0,5,2,2,522,Clients à risque
+Jill Matthias,303.95,5,0,5,2,1,521,Clients à risque
+Patrick O'Donnell,2493.21,7,0,5,4,3,543,Clients fidèles
+Chuck Clark,2870.05,10,0,5,5,4,554,Champions
