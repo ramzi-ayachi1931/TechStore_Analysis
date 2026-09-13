@@ -386,8 +386,7 @@ L3 Informatique — Université Toulouse Jean Jaurès
 **GitHub :**
 https://github.com/ramzi-ayachi1931/TechStore_Analysis
 
-**Power BI :**
-*Lien vers le rapport Power BI à ajouter lorsque le dashboard sera publié sur Power BI Service.*
+
 
 ---
 
